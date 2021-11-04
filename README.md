@@ -5,4 +5,4 @@ An android App for reading Online News.
 
 
 # Demo
-![ProjectDemo Final](https://user-images.githubusercontent.com/69251355/124832580-7c66c680-df9a-11eb-983f-809adeb13514.gif)
+<img width="202" alt="2021-07-08 (2)" src="https://user-images.githubusercontent.com/69251355/124832580-7c66c680-df9a-11eb-983f-809adeb13514.gif">
